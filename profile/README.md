@@ -63,7 +63,7 @@ khuda-deepdive-session/
 | 오종현 | [@Sjaize](https://github.com/Sjaize) |
 | 오찬세 | [@chansses](https://github.com/chansses) |
 | 전형진 | [@andyj03074](https://github.com/andyj03074) |
-| 정유진 | [@yujin010917](https://github.com/yujin010917) |
+| 정유진 | [@YuujInJeong](https://github.com/YuujInJeong) |
 | 지민석 | [@mingmingseok](https://github.com/mingmingseok) |
 | 최예지 | [@Leselie01](https://github.com/Leselie01) |
 
