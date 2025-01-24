@@ -57,7 +57,7 @@ khuda-deepdive-session/
 ## 👥 스터디 멤버
 | 이름 | GitHub |
 |------|--------|
-| 강지원 | [@GitHub_ID](https://github.com/GitHub_ID) |
+| 강지원 | [@jiwon0095](https://github.com/jiwon0095) |
 | 박정식 | [@oriing](https://github.com/oriing) |
 | 박지연 | [@cozyeon](https://github.com/cozyeon) |
 | 오종현 | [@Sjaize](https://github.com/Sjaize) |
