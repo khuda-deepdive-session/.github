@@ -58,6 +58,7 @@ khuda-deepdive-session/
 | 정유진 | [@YuujInJeong](https://github.com/YuujInJeong) |
 | 지민석 | [@mingmingseok](https://github.com/mingmingseok) |
 | 최예지 | [@Leselie01](https://github.com/Leselie01) |
+| 한지훈 | [@jhhan0208](https://github.com/jhhan0208) |
 
 
 ## 📢 커뮤니케이션
