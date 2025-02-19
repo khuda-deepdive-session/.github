@@ -8,7 +8,7 @@ KHUDA Deep Dive Session에 오신 것을 환영합니다! 🎉
 ## 📁 레포지토리 구조
 ```
 khuda-deepdive-session/
-├── KHUDA-7TH/
+├── KHUDA-7TH-STUDY/
 │   ├── review-tasks/
 │   │   └── example/
 │   │       └── week1/
@@ -16,6 +16,7 @@ khuda-deepdive-session/
 │   └── .github/
 │       └── ISSUE_TEMPLATE/
 │           └── week-review.md
+├── KHUDA-7TH-PROJECT/
 └── README.md
 ```
 
